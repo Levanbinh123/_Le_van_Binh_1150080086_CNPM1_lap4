@@ -1,0 +1,11 @@
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\bin\Debug\net10.0\PowerLib.deps.json
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\bin\Debug\net10.0\PowerLib.dll
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\bin\Debug\net10.0\PowerLib.pdb
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\obj\Debug\net10.0\PowerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\obj\Debug\net10.0\PowerLib.AssemblyInfoInputs.cache
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\obj\Debug\net10.0\PowerLib.AssemblyInfo.cs
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\obj\Debug\net10.0\PowerLib.csproj.CoreCompileInputs.cache
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\obj\Debug\net10.0\PowerLib.dll
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\obj\Debug\net10.0\refint\PowerLib.dll
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\obj\Debug\net10.0\PowerLib.pdb
+C:\Van_Binh\kiem_thu_phan_mem\PowerSolution\PowerLib\obj\Debug\net10.0\ref\PowerLib.dll

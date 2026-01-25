@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PowerLib.Tests/PowerLib.Tests.csproj" />
+  <Project Path="PowerLib/PowerLib.csproj" />
+</Solution>

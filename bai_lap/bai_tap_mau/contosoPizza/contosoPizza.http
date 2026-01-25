@@ -1,0 +1,2 @@
+GET https://localhost:5100/api/pizza
+Accept: application/json
